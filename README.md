@@ -1,4 +1,4 @@
-# NonEuclidean
+# Woah Readme.md
 A NonEuclidean rendering engine for Windows, written in C++ OpenGL.
 To see what this code is about, check out this video:
 https://youtu.be/kEB11PQ9Eo8
